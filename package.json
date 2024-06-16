@@ -1,0 +1,19 @@
+{
+  "name": "@acapelli/react-native-tt",
+  "version": "1.0.0",
+  "description": "Package for React Native TTLock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andre-Capelli/react-native-tt.git"
+  },
+  "author": "Andre Capelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andre-Capelli/react-native-tt/issues"
+  },
+  "homepage": "https://github.com/Andre-Capelli/react-native-tt#readme"
+}
